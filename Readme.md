@@ -48,15 +48,7 @@ We envision a future where every environmental project, from small community gar
 contract ID:STCAP8YHRC3ZYCG6MG7G018VBJYZC2Y1CAYW9SY3.GreenBond-Platform 
 ![alt text](image.png)
 
-### Mainnet Deployment
-- **Contract Address**: [To be added after deployment]
-- **Transaction Hash**: [To be added after deployment]
-- **Block Height**: [To be added after deployment]
 
-### Testnet Deployment
-- **Contract Address**: [To be added after testing]
-- **Transaction Hash**: [To be added after testing]
-- **Block Height**: [To be added after testing]
 
 ### Contract Functions
 - `issue-green-bond`: Creates new environmental projects and issues corresponding green bond tokens
@@ -72,3 +64,4 @@ contract ID:STCAP8YHRC3ZYCG6MG7G018VBJYZC2Y1CAYW9SY3.GreenBond-Platform
 ---
 
 *For technical documentation, deployment guides, and API references, please visit our developer portal.*
+
