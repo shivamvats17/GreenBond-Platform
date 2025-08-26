@@ -45,7 +45,8 @@ We envision a future where every environmental project, from small community gar
 
 ## Contract Address Details
 
-*Contract addresses will be updated after deployment*
+contract ID:STCAP8YHRC3ZYCG6MG7G018VBJYZC2Y1CAYW9SY3.GreenBond-Platform 
+![alt text](image.png)
 
 ### Mainnet Deployment
 - **Contract Address**: [To be added after deployment]
